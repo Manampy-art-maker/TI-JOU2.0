@@ -1,4 +1,4 @@
-const CACHE_NAME = 'ti-jou-v1';
+const CACHE_NAME = 'ti-jou-v3';
 const FILES_TO_CACHE = [
   './index.html',
   './manifest.json',
